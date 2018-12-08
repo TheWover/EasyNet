@@ -1,0 +1,12 @@
+C:\Users\Shawn\Documents\GitHub\utilities\redteam\packer\EasyNet\ExampleWrapper\bin\Debug\ExampleWrapper.exe.config
+C:\Users\Shawn\Documents\GitHub\utilities\redteam\packer\EasyNet\ExampleWrapper\bin\Debug\ExampleWrapper.exe
+C:\Users\Shawn\Documents\GitHub\utilities\redteam\packer\EasyNet\ExampleWrapper\bin\Debug\ExampleWrapper.pdb
+C:\Users\Shawn\Documents\GitHub\utilities\redteam\packer\EasyNet\ExampleWrapper\bin\Debug\EasyNetLibrary.dll
+C:\Users\Shawn\Documents\GitHub\utilities\redteam\packer\EasyNet\ExampleWrapper\bin\Debug\EasyNetLibrary.pdb
+C:\Users\Shawn\Documents\GitHub\utilities\redteam\packer\EasyNet\ExampleWrapper\obj\Debug\ExampleWrapper.csprojAssemblyReference.cache
+C:\Users\Shawn\Documents\GitHub\utilities\redteam\packer\EasyNet\ExampleWrapper\obj\Debug\ExampleWrapper.Properties.Resources.resources
+C:\Users\Shawn\Documents\GitHub\utilities\redteam\packer\EasyNet\ExampleWrapper\obj\Debug\ExampleWrapper.csproj.GenerateResource.cache
+C:\Users\Shawn\Documents\GitHub\utilities\redteam\packer\EasyNet\ExampleWrapper\obj\Debug\ExampleWrapper.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\Documents\GitHub\utilities\redteam\packer\EasyNet\ExampleWrapper\obj\Debug\ExampleWrapper.csproj.CopyComplete
+C:\Users\Shawn\Documents\GitHub\utilities\redteam\packer\EasyNet\ExampleWrapper\obj\Debug\ExampleWrapper.exe
+C:\Users\Shawn\Documents\GitHub\utilities\redteam\packer\EasyNet\ExampleWrapper\obj\Debug\ExampleWrapper.pdb
