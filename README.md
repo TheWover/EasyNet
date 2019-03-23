@@ -68,3 +68,5 @@ A usage guide for the EasyNet Library and ExampleWrapper are provided in their s
 
 # To-Do
 * Replace CopyTo usage with a 3.5 compatible function to ensure this can be used on older Windows machines. Should be trivial.
+* Overload the pack function to optionally take a pre-defined key.
+* Add an environmentally keyed version that uses an enum that you OR togethor to get your options of what to check.
