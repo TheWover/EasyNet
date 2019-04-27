@@ -66,6 +66,14 @@ WARNING: When using pipe redirectiong for packing (as demonstrated above), avoid
 
 A usage guide for the EasyNet Library and ExampleWrapper are provided in their subdirectories.
 
+# ATT&CK Mapping
+
+ATT&CK ID: T1045
+
+Technique Name: Software Packing
+
+ATT&CK Framework Link: https://attack.mitre.org/techniques/T1045/ 
+
 # To-Do
 * Overload the pack function to optionally take a pre-defined key.
 * Add an environmentally keyed version that uses an enum that you OR togethor to get your options of what to check.
