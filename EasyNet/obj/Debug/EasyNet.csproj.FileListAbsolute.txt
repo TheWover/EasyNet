@@ -8,3 +8,13 @@ C:\Users\Shawn\Documents\GitHub\utilities\redteam\packer\EasyNet\EasyNet\obj\Deb
 C:\Users\Shawn\Documents\GitHub\utilities\redteam\packer\EasyNet\EasyNet\obj\Debug\EasyNet.csproj.CopyComplete
 C:\Users\Shawn\Documents\GitHub\utilities\redteam\packer\EasyNet\EasyNet\bin\Debug\EasyNetLibrary.dll
 C:\Users\Shawn\Documents\GitHub\utilities\redteam\packer\EasyNet\EasyNet\bin\Debug\EasyNetLibrary.pdb
+C:\Users\Shawn\Documents\GitHub\EasyNet\EasyNet\bin\Debug\EasyNet.exe.config
+C:\Users\Shawn\Documents\GitHub\EasyNet\EasyNet\bin\Debug\EasyNet.exe
+C:\Users\Shawn\Documents\GitHub\EasyNet\EasyNet\bin\Debug\EasyNet.pdb
+C:\Users\Shawn\Documents\GitHub\EasyNet\EasyNet\bin\Debug\EasyNetLibrary.dll
+C:\Users\Shawn\Documents\GitHub\EasyNet\EasyNet\bin\Debug\EasyNetLibrary.pdb
+C:\Users\Shawn\Documents\GitHub\EasyNet\EasyNet\obj\Debug\EasyNet.csprojAssemblyReference.cache
+C:\Users\Shawn\Documents\GitHub\EasyNet\EasyNet\obj\Debug\EasyNet.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\Documents\GitHub\EasyNet\EasyNet\obj\Debug\EasyNet.csproj.CopyComplete
+C:\Users\Shawn\Documents\GitHub\EasyNet\EasyNet\obj\Debug\EasyNet.exe
+C:\Users\Shawn\Documents\GitHub\EasyNet\EasyNet\obj\Debug\EasyNet.pdb

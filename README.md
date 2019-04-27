@@ -16,7 +16,7 @@ An example wrapper is provided by the ExampleWrapper folder. That example can un
 
 EasyNet could also be used to protect exfiltrated data. Or, to bypass DLP (Data-Loss Prevention). Or, many other things. Really, it could be used for many purposes that I have not predicted or intended. That, to me, is the mark of a good tool. ;-)
 
-Language: C# (currently .NET Framework versions > v3.5)
+Language: C# (.NET 3.5 compatible)
 
 # Usage
 
@@ -67,6 +67,5 @@ WARNING: When using pipe redirectiong for packing (as demonstrated above), avoid
 A usage guide for the EasyNet Library and ExampleWrapper are provided in their subdirectories.
 
 # To-Do
-* Replace CopyTo usage with a 3.5 compatible function to ensure this can be used on older Windows machines. Should be trivial.
 * Overload the pack function to optionally take a pre-defined key.
 * Add an environmentally keyed version that uses an enum that you OR togethor to get your options of what to check.
